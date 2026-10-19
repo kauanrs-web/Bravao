@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bravoo-gray.vercel.app/sitemap.xml

@@ -1,0 +1,10 @@
+# Bravo Barbearia
+
+> Barbearia fictícia, projeto demonstrativo.
+
+- Corte masculino: R$ 45, 40 minutos.
+- Barba: R$ 35, 30 minutos.
+- Corte + barba: R$ 75, 70 minutos.
+- Infantil: R$ 40, 40 minutos.
+
+Agendamento simulado; nenhuma reserva é criada. Endereço e profissionais ilustrativos.

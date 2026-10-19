@@ -1,0 +1,12 @@
+{
+  "name": "bravo-barbearia",
+  "version": "4.1.0",
+  "private": true,
+  "description": "Bravo Barbearia: interface editorial, serviços em abas e animações nativas",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
